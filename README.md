@@ -54,4 +54,3 @@ AraQuiz is an Arabic adaptive quiz application built using Streamlit and Google 
 3. **Answer Questions**: Questions will be displayed one by one. Choose the correct answer to score points.
 4. **Leaderboard**: Check the top scores on the leaderboard page.
 
->>>>>>> master
